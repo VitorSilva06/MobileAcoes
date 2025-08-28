@@ -1,0 +1,25 @@
+{
+    "name":"Meu primeiro PWA",
+    "short_name":"Meu PWA",
+    "description": "Aplicativo feito durante a aula de TDS",
+    "start_url":"https://vitorsilva06.github.io/MobileAcoes/",
+    "background_color":"#ddd",
+    "scope":"https://vitorsilva06.github.io/MobileAcoes/",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"img/logo.png",
+            "sizes":"50x50"
+        },
+        {
+
+        }
+    ],
+    "lang":"pt-br",
+    "dir":"auto",
+    "categories":[
+        "education"
+    ],
+    "id":"pwa_teste",
+    "orientation":"any"
+}
